@@ -1,0 +1,29 @@
+{
+  "name": "404-page",
+  "version": "1.0.0",
+  "description": "Demo project about node package manager",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/bit-nodejs.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Vaidas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/bit-nodejs/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/bit-nodejs#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
